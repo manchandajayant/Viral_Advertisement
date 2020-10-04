@@ -5,7 +5,6 @@
 // Each day, half of the recipients like the advertisement and will share it with  friends on the following day. Assuming nobody receives the advertisement twice, determine how many people have liked the ad by the end of a given day, beginning with launch day as day .
 
 
-
 function viralAdvertisement(days) {
   let count = 0;
   let shared = 5;
